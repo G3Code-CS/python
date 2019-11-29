@@ -22,4 +22,3 @@ str(my_list)
 # String split
 my_string = "the,quick,brown,fox"
 my_string.split(",")
-
